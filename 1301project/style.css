@@ -1,0 +1,62 @@
+/* Sample Webpage Lab  style.css - Note that you need to fill this in yourself! */
+
+body {
+    font-family: arial;
+    font-size: 18px;
+    color: black;
+    background-image: url("http://fc03.deviantart.net/fs71/f/2013/166/f/a/background_cute_1_by_naanchan-d6941bf.jpg");
+    margin: 15px;
+    padding: 0;
+}
+
+p {
+  line-height: 18px;
+}
+
+h1 {
+    color: #FFFFFF;
+    background-color: #9966CC;
+    font-size: 2em;
+    margin: 0;
+    margin-bottom: 7px;
+    padding: 4px;
+    font-style: normal;
+    text-align: center;
+    letter-spacing: 0.5em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-bottom-color: #c00;
+}
+
+h3 {
+    color: #000000;
+    font-size: 1.25em;
+}
+
+
+
+a:link {
+    color: #6600CC;
+}
+
+a:visited {
+    color: #9966FF;
+}
+
+a:hover {
+    color: #FF00FF;
+}
+
+a:active {
+    color: #0000FF;
+}
+
+li {
+    color: #900;
+    font-style: italic;
+}
+
+table {
+    background-color: #9999FF;
+}
+
